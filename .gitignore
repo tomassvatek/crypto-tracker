@@ -1,4 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
+bin
+include
+lib
+pyvenv.cfg
 
 data/*.csv
+.env
